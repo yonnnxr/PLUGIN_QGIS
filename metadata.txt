@@ -1,0 +1,7 @@
+[general]
+name=Browser Tabelas SCI
+qgisMinimumVersion=3.0
+description=Plugin para navegar e adicionar tabelas com geometria de um banco SQL Server.
+version=0.1
+author=Carlos Borges
+email=carlosborges2007edu@exemplo.com
